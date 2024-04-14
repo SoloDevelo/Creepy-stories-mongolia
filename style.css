@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.menu ul{
+    display: inline-flex;
+    margin: 50px;   
+}
+.menu ul li{
+   list-style: none;
+   margin: 0 20px;
+   color: #b2b1b1;
+   cursor: pointer;
+}
+body{
+   background-image: url("aimar zurag.jpg");
+   background-color: transparent;
+}
+button {
+    background-color: #ffd500;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 24px;
+    position: relative;
+    width: 3cm;
+    font-family: sans-serif;
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+    background: linear-gradient(90deg , #808080 ,#ffffff );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: sans-serif;
+}
+h2{
+    color: #ffffff;
+}
+h1{
+    background: linear-gradient(90deg , #808080 ,#000000 );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: sans-serif;
+}
+h2{
+    background: linear-gradient(90deg , #808080 ,#ffffff );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: sans-serif;
+}
+h3{
+    background: linear-gradient(90deg , white,black);
+    -webkit-background-clip: transparent;
+    font-family: sans-serif;
+    background-clip: text;
+}
+img{
+    width: 1cm;
+}
+h1 img{
+    width: 4cm;
+}
